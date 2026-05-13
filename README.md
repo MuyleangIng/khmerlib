@@ -4,6 +4,8 @@ KhmerLib is a Khmer digital library for reading, searching, and managing books o
 
 ## Architecture
 
+![KhmerLib architecture diagram](public/architecture.svg)
+
 ```text
 Student/User
   -> Vercel hosts the Next.js frontend and API routes

@@ -1,5 +1,7 @@
 # KhmerLib Architecture
 
+![KhmerLib architecture diagram](../public/architecture.svg)
+
 ## High-Level Drawing: Vercel + Cloudflare
 
 ```text
