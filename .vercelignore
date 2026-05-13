@@ -1,0 +1,13 @@
+node_modules
+.next
+venv
+all book
+file
+data.json
+fetch_all_books.py
+download_books_assets.py
+wrangler.toml
+wrangler.toml.bak
+.DS_Store
+*.pyc
+__pycache__
